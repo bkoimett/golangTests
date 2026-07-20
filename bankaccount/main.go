@@ -20,3 +20,6 @@ func main() {
 
 	fmt.Println(myWallet.Balance)
 }
+
+// this is to test my repo
+func test()
